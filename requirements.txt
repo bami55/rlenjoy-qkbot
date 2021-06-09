@@ -1,0 +1,5 @@
+discord.py
+discord-components
+autopep8
+deta
+python-dotenv
